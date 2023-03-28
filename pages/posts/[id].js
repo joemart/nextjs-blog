@@ -32,6 +32,6 @@ export default function Post({postData}) {
       <title>{postData.title}</title>
       </Head>
     <Date dateString={postData.date}></Date>
-    qwerqwerqwerqwer
+    Potato Tomato
   </Layout>;
 }
